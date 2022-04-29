@@ -1,0 +1,41 @@
+66:1:"Son of Return of the Fly II":David Wise:September 8, 1990 (CBS):S04E16
+67:2:"Raphael Knocks 'Em Dead":Jack Mendelsohn:September 8, 1990 (CBS):S04E17
+68:3:"Plan Six from Outer Space":David Wise:September 10, 1990 (Syndication):S04E01
+69:4:"Turtles of the Jungle":Misty Taggart:September 11, 1990 (Syndication):S04E02
+70:5:"Michaelangelo Toys Around":Ted Pedersen and Francis Moss:September 12, 1990 (Syndication):S04E03
+71:6:"Peking Turtle":Antonio Ortiz and Carmela Ortiz:September 13, 1990 (Syndication):S04E04
+72:7:"Shredder's Mom":Ted Pedersen and Francis Moss:September 14, 1990 (Syndication):S04E05
+73:8:"Bebop and Rocksteady Conquer the Universe":David Wise:September 15, 1990 (CBS):S04E18
+74:9:"Raphael Meets His Match":Charles M. Howell IV:September 15, 1990 (CBS):S04E19
+75:10:"Four Turtles and a Baby":Misty Taggart:September 17, 1990 (Syndication):S04E06
+76:11:"Turtlemaniac":Rowby Goren:September 18, 1990 (Syndication):S04E07
+77:12:"Rondo in New York":Francis Moss and Ted Pedersen:September 19, 1990 (Syndication):S04E08
+78:13:"Planet of the Turtles":George Shea:September 20, 1990 (Syndication):S04E09
+79:14:"Name That Toon":Misty Taggart:September 21, 1990 (Syndication):S04E10
+80:15:"Slash – The Evil Turtle from Dimension X":David Wise:September 22, 1990 (CBS):S04E20
+81:16:"Leonardo Lightens Up":Dan DiStefano:September 22, 1990 (CBS):S04E21
+82:17:"Menace Maestro, Please":Martin Pasko:September 24, 1990 (Syndication):S04E11
+83:18:"Back to the Egg":Dennis Marks:September 26, 1990 (Syndication):S04E13
+84:19:"Were-Rats from Channel 6":David Wise:September 29, 1990 (CBS):S04E22
+85:20:"Funny, They Shrunk Michaelangelo":Michael Edens:September 29, 1990 (CBS):S04E23
+86:21:"The Big Zipp Attack":David Wise:October 6, 1990 (CBS):S04E24
+87:22:"Donatello Makes Time":Dennis Marks:October 6, 1990 (CBS):S04E25
+88:23:"Farewell, Lotus Blossom!":David Wise:October 13, 1990 (CBS):S04E26
+89:24:"Rebel Without a Fin":Michael Reaves:October 13, 1990 (CBS):S04E27
+90:25:"Rhino-Man":David Wise:October 20, 1990 (CBS):S04E28
+91:26:"Michaelangelo Meets Bugman":Dennis Marks:October 20, 1990 (CBS):S04E29
+92:27:"Poor Little Rich Turtle":David Wise:October 27, 1990 (CBS):S04E30
+93:28:"What's Michaelangelo Good For?":Ted Pedersen and Francis Moss:October 27, 1990 (CBS):S04E31
+94:29:"The Dimension X Story":David Wise:November 3, 1990 (CBS):S04E32
+95:30:"Donatello's Degree":Jack Mendelsohn:November 3, 1990 (CBS):S04E33
+96:31:"The Big Cufflink Caper!":David Wise:September 14, 1990 (CBS primetime)[4]
+97:32:"Leonardo Versus Tempestra":Misty Taggart:November 10, 1990 (CBS):S04E35
+98:33:"Splinter Vanishes":Francis Moss and Ted Pedersen:November 17, 1990 (CBS):S04E36
+99:34:"Raphael Drives 'em Wild":Misty Taggart:November 17, 1990 (CBS):S04E37
+100:35:"Super Hero for a Day":Francis Moss and Ted Pedersen:November 24, 1990 (Syndication):S04E12
+101:36:"Beyond the Donatello Nebula":Dennis O'Flaherty:November 24, 1990 (CBS):S04E38
+102:37:"Big Bug Blunder":Michael Reeves:November 24, 1990 (CBS):S04E39
+103:38:"The Foot Soldiers Are Revolting":Michael Reaves:December 1, 1990 (CBS):S04E40
+104:39:"Unidentified Flying Leonardo":Sean Roche:December 1, 1990 (CBS):S04E41
+105:40:"The Turtles and The Hare":Misty Taggart:March 28, 1991 (Syndication):S04E14
+106:41:"Once Upon a Time Machine":Michael Maurer:March 29, 1991 (Syndication):S04E15

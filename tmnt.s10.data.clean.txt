@@ -1,0 +1,8 @@
+186:1:"The Return of Dregg":September 14, 1996:S10E01
+187:2:"The Beginning of the End":September 21, 1996:S10E02
+188:3:"The Power of Three":September 28, 1996:S10E03
+189:4:"A Turtle in Time":October 5, 1996:S10E04
+190:5:"Turtles to the Second Power":October 12, 1996:S10E05
+191:6:"Mobster from Dimension X":October 19, 1996:S10E06
+192:7:"The Day the Earth Disappeared":October 26, 1996:S10E07
+193:8:"Divide and Conquer":November 2, 1996:S10E08

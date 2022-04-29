@@ -1,0 +1,20 @@
+107:1:"My Brother, the Bad Guy":Dennis O'Flaherty:September 14, 1991:S05E01
+108:2:"Michaelangelo Meets Mondo Gecko":Gary Greenfield:September 14, 1991:S05E02
+109:3:"Enter Mutagen Man":David Wise:September 21, 1991:S05E03
+110:4:"Donatello's Badd Time":Misty Taggart:September 21, 1991:S05E04
+111:5:"Michaelangelo Meets Bugman Again":David Wise:September 28, 1991:S05E05
+112:6:"Muckman Messes Up":Francis Moss and Ted Pedersen:September 28, 1991:S05E06
+113:7:"Napoleon Bonafrog: Colossus of the Swamps":Dennis O'Flaherty:October 5, 1991:S05E07
+114:8:"Raphael Versus The Volcano":Carole Mendelsohn:October 5, 1991:S05E08
+115:9:"Landlord of the Flies":Gordon Bressack:October 12, 1991:S05E09
+116:10:"Donatello's Duplicate":Jack Mendelsohn & Carole Mendelsohn:October 12, 1991:S05E10
+117:11:"The Ice Creature Cometh":David Wise:October 19, 1991:S05E11
+118:12:"Leonardo Cuts Loose":David Wise:October 19, 1991:S05E12
+119:13:"Planet of the Turtleoids: Episode 1":David Wise:August 31, 1991 (prime-time)[5]
+120:14:"Planet of the Turtleoids: Episode 2":David Wise:August 31, 1991 (prime-time)[5]
+121:15:"Pirate Radio":Misty Taggart:November 2, 1991:S05E13
+122:16:"Raphael, Turtle of a Thousand Faces":Dennis O'Flaherty:November 2, 1991:S05E14
+123:17:"Leonardo, the Renaissance Turtle":Dennis O'Flaherty:November 9, 1991:S05E15
+124:18:"Zach and the Alien Invaders":Francis Moss and Ted Pedersen:November 9, 1991:S05E16
+125:19:"Welcome Back Polarisoids":Misty Taggart:November 16, 1991:S05E17
+126:20:"Michalangelo, the Sacred Turtle":Dennis O'Flaherty:November 16, 1991:S05E18

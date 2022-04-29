@@ -1,0 +1,8 @@
+178:1:"The Unknown Ninja":Mark Edens and Bob Forward:September 16, 1995:S09E01
+179:2:"Dregg of the Earth":Mark Edens and David Wise:September 23, 1995:S09E02
+180:3:"The Wrath of Medusa":David Wise:September 30, 1995:S09E03
+181:4:"The New Mutation":David Wise:October 7, 1995:S09E04
+182:5:"The Showdown":David Wise:October 14, 1995:S09E05
+183:6:"Split-Second":David Wise:October 21, 1995:S09E06
+184:7:"Carter, the Enforcer":David Wise:October 28, 1995:S09E07
+185:8:"Doomquest":David Wise:November 4, 1995:S09E08

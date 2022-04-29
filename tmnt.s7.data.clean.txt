@@ -1,0 +1,27 @@
+143:1:"Tower of Power":Bruno-Rene Huchez:Michael Malach:September 13, 1993:EU01
+144:2:"Rust Never Sleeps":Bruno-Rene Huchez:Lee Schneider and Matthew Malach:September 14, 1993:EU02
+145:3:"A Real Snow Job":Bruno-Rene Huchez:Misty Taggart:September 15, 1993:EU03
+146:4:"Venice on the Half Shell":Bruno-Rene Huchez:Misty Taggart:September 16, 1993:EU04
+147:5:"Artless":Bruno-Rene Huchez:Doug Molitor:September 17, 1993:EU05
+148:6:"Night of the Dark Turtle":Bill Hutten and Tony Love:David Wise:September 18, 1993:S07E01
+149:7:"Ring of Fire":Bruno-Rene Huchez:Michael Edens:September 20, 1993:EU06
+150:8:"The Irish Jig Is Up":Bruno-Rene Huchez:Story by : Carole Mendelsohn
+151:9:"Shredder's New Sword":Bruno-Rene Huchez:Francis Moss and Ted Pedersen:September 22, 1993:EU08
+152:10:"The Lost Queen of Atlantis":Bruno-Rene Huchez:Michael Edens:September 23, 1993:EU09
+153:11:"Turtles on the Orient Express":Bruno-Rene Huchez:Doug Molitor:September 24, 1993:EU10
+154:12:"The Starchild":Bill Hutten and Tony Love:David Wise:September 25, 1993:S07E02
+155:13:"April Gets in Dutch":Bruno-Rene Huchez:Misty Taggart:September 27, 1993:EU11
+156:14:"Northern Lights Out":Bruno-Rene Huchez:Ted Pedersen and Francis Moss:September 28, 1993:EU12
+157:15:"Elementary, My Dear Turtle":Bruno-Rene Huchez:Dennis O'Flaherty:September 29, 1993:EU13
+158:16:"The Legend of Koji":Bill Hutten and Tony Love:David Wise:October 2, 1993:S07E03
+159:17:"Convicts from Dimension X":Bill Hutten and Tony Love:Jack Mendelsohn:October 9, 1993:S07E04
+160:18:"White Belt, Black Heart":Bill Hutten and Tony Love:Jack Mendelsohn and Carole Mendelsohn:October 16, 1993:S07E05
+161:19:"Night of the Rogues":Bill Hutten and Tony Love:David Wise:October 23, 1993:S07E06
+162:20:"Attack of the Neutrinos":Bill Hutten and Tony Love:David Wise:October 30, 1993:S07E07
+163:21:"Escape from the Planet of the Turtleoids":Bill Hutten and Tony Love:David Wise:November 6, 1993:S07E08
+164:22:"Revenge of the Fly":Bill Hutten and Tony Love:David Wise:November 13, 1993:S07E09
+165:23:"Atlantis Awakes":Bill Hutten and Tony Love:David Wise:November 20, 1993:S07E10
+166:24:"Dirk Savage: Mutant Hunter!":Bill Hutten and Tony Love:David Wise:November 27, 1993:S07E11
+167:25:"Invasion of the Krangazoids":Bill Hutten and Tony Love:David Wise:December 4, 1993:S07E12
+168:26:"Combat Land":Bill Hutten and Tony Love:David Wise:December 11, 1993:S07E13
+169:27:"Shredder Triumphant!":Bill Hutten and Tony Love:David Wise:December 18, 1993:S07E14

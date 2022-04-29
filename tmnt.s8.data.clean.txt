@@ -1,0 +1,8 @@
+170:1:"Get Shredder!":September 17, 1994:S08E01
+171:2:"Wrath of the Rat King":September 24, 1994:S08E02
+172:3:"State of Shock":October 1, 1994:S08E03
+173:4:"Cry H.A.V.O.C.!":October 8, 1994:S08E04
+174:5:"H.A.V.O.C. in the Streets!":October 15, 1994:S08E05
+175:6:"Enter: Krakus":October 22, 1994:S08E06
+176:7:"Cyber-Turtles":October 29, 1994:S08E07
+177:8:"Turtle Trek":November 5, 1994:S08E08

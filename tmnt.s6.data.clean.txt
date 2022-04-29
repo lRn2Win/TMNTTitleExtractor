@@ -1,0 +1,16 @@
+127:1:"Rock Around the Block":David Wise:September 12, 1992:S06E01
+128:2:"Krangenstein Lives!":David Wise:September 19, 1992:S06E02
+129:3:"Super Irma":David Wise:September 26, 1992:S06E03
+130:4:"Adventures in Turtle-Sitting":Jack Mendelsohn and Carole Mendelsohn:October 3, 1992:S06E04
+131:5:"Sword of Yurikawa":Marc Handler:October 10, 1992:S06E05
+132:6:"Return of the Turtleoid":David Wise:October 17, 1992:S06E06
+133:7:"Shreeka's Revenge":Jack Mendelsohn and Carole Mendelsohn:October 24, 1992:S06E07
+134:8:"Too Hot to Handle":Jack Mendelsohn and Carole Mendelsohn:October 31, 1992:S06E08
+135:9:"Nightmare in the Lair":Dennis O'Flaherty:November 7, 1992:S06E09
+136:10:"Phantom of the Sewers":David Wise:November 14, 1992:S06E10
+137:11:"Donatello Trashes Slash":David Wise:November 21, 1992:S06E11
+138:12:"Leonardo is Missing":David Wise:November 28, 1992:S06E12
+139:13:"Snakes Alive!":David Wise:December 5, 1992:S06E13
+140:14:"Polly Wanna Pizza":Jack Mendelsohn:December 12, 1992:S06E14
+141:15:"Mr. Nice Guy":Steve Granat and Cydne Clark:December 19, 1992:S06E15
+142:16:"Sleuth on the Loose":Matt Uitz:December 26, 1992:S06E16
